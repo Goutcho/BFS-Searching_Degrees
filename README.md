@@ -44,7 +44,3 @@ Pour exécuter le projet, assurez-vous que Python et les fichiers CSV nécessair
 
 ```bash
 python degrees.py
-
-Entrez vos noms d'acteurs' tiré du CSV
-
-Voyez !
